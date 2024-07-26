@@ -64,3 +64,5 @@ The deep-skilling program is structured into weekly modules, each focusing on di
 Two important documents are provided for your reference:
 1. [Deep Skilling Handbook](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/blob/main/DN%203.0%20Handbook%20and%20FAQS/DN3.0-Deepskilling-Handbook-Java-FSE.pdf)
 2. [FAQ - Digital Nurture 3.0](https://github.com/Subrata2003/Cognizant-Digital-Nurtue-3.0-JAVA-FSE-/blob/main/DN%203.0%20Handbook%20and%20FAQS/FAQ%20-%20DN%203.0.pdf)
+## License
+© [2024 Sankalpa Pramanik, B. P. Poddar Institute of Management and Technology - Kolkata. All rights reserved.]
